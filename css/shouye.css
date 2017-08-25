@@ -1,0 +1,551 @@
+header{
+	width: 100%;	
+	height: .48rem;
+	background-color: #FE204F;
+	background-image: url('../img/tuoyuan.png');
+	background-size: 100%;
+	padding: 0 .12rem;
+	position: fixed;
+	top: 0;
+	left:0;
+	overflow: hidden;
+	z-index: 999;
+}
+#head-top{
+	width: 100%;
+	height: .48rem;
+	padding: .12rem 0;
+	float:left;
+}
+#head-top a{
+	width: .29rem;
+	height: .24rem;
+	display:block;
+	float: left;
+	margin: 0 auto;
+}
+#head-top a:nth-child(2){
+    float: left;
+    display:block;
+    width: .58rem;
+	height: .31rem;
+	margin-left: .12rem;
+}
+#head-top a:nth-child(3){
+    float: right;
+	width: .27rem;
+	height: .24rem;
+	display:block;
+	margin-left: .10rem;
+}
+#head-top a:nth-child(4){
+    float: right;
+	width: .26rem;
+	height: .24rem;
+	display:block;
+}
+#neirong{
+	width: 100%;
+	height:13.8rem;
+	background-color:#21232F;
+	padding: 0 .12rem;
+	margin-top: .48rem;
+	margin-bottom: .44rem;
+}
+#fenduan{
+	width: 100%;
+	height: .58rem;
+	padding: .145rem .40rem;
+	float: left;
+}
+#fenduan a{
+	width: .265rem;
+	height: .255rem;
+	float: left;
+
+}
+#fenduan a:nth-child(1){
+	width: .265rem;
+	height: .255rem;
+	display:block;
+	margin-top: .05rem;
+}
+#fenduan a:nth-child(2){
+ 	width: .47rem;
+	height: .36rem;
+	display:block;
+	margin-left: .85rem;
+}
+#fenduan a:nth-child(3){
+	width: .265rem;
+	height: .255rem;
+	display:block;
+	margin-top: .05rem;
+    float: right;
+}
+#banner{
+	width: 3.23rem;
+	height: 2.15rem;
+	margin:0 auto;
+}
+#baika{
+	width: 2.99rem;
+	height: 0.665rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+}
+#baika a{
+	width: 2.99rem;
+	height: 0.85rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+    display:block;
+}
+#fenlei{
+	width: 100%;
+	height: 1.315rem;
+/* 	background-color: black; */
+	margin-top:.05rem;
+	padding: .12rem .24rem;
+	float: left; 
+
+}
+#fenlei a{
+	width: .545rem;
+	height: .545rem;
+	display:block;
+	display: inline-block; 
+}
+#fenlei a:nth-child(2){
+	width: .545rem;
+	height: .545rem;
+	display:block;
+	margin-left:.18rem;
+	display: inline-block; 
+}
+#fenlei a:nth-child(3){
+	width: .545rem;
+	height: .545rem;
+	display:block;
+	margin-left:.18rem;
+	display: inline-block; 
+}
+#fenlei span{
+	font-size:.12rem;
+	display:block;
+	text-align: center;
+	margin-top:.1rem;
+	font-family: "微软雅黑";
+	font-weight:bold;
+	color: white; 
+}
+#zuixinyinyue{
+	width: 100%;
+	height: .545rem;
+	display:block;
+	margin-top:1.2rem;
+	padding: .14rem 0;
+}
+#zuixinyinyue a{
+	width: 1.4rem;
+	height: .335rem;
+    display:block;
+}
+#yinyueneirong{
+	width: 100%;
+	height: 3.38rem;
+	/* background-color: black; */
+	background-image: url('../img/ditu.png');
+	background-size: 100%;
+	padding: .20rem 0;
+	display:block;
+	float: left;
+}
+#ditu{
+	width: 100%;
+	height: 1.99rem;
+	display:block;
+	margin-left:.04rem;
+	float: left; 
+}
+.ditu1{
+	width: 1.605rem;
+	height: 2.56rem;
+	display:block;
+	position: relative;
+}
+.tupian1{
+	width: 1.605rem;
+	height: 1.68rem;
+	background-color: green;
+	display:block;
+	position: absolute;
+	left: .16rem;
+	right: 0;
+	top: 5.53rem;
+	border: 0;
+	border-radius: .08rem;	
+}
+#yinyueneirong span{
+	font-size:.04rem;
+	display:block;
+	text-align: left;
+	margin-top:.010rem;
+	margin-left:.1rem;
+	font-family: "微软雅黑";
+	font-weight:bold;
+	color: black;
+}
+#yinyueneirong span.ziti2{
+	font-size:.04rem;
+	display:block;
+	text-align: left;
+	margin-top:.001rem;
+	margin-left:.1rem;
+	font-family: "Roboto";
+	color: #818183;
+}
+.dianzan{
+	width: 1.525rem;
+	height: .175rem;
+	display:block;
+	margin-left:.05rem;
+	margin-top:.02rem;
+}
+.ditu2{
+	width: 1.605rem;
+	height: 2.56rem;
+	display:block;
+    float: right;
+   	position: absolute;
+	left: 1.95rem;
+	right: 0;
+	top: 5.44rem;
+	border: 0;
+}
+.tupian2{
+	width: 1.605rem;
+	height: 1.68rem;
+/* 	background-color: green; */
+	display:block;
+	position: absolute;
+	left: .1.95rem;
+	right: .20rem;
+	top: 5.53rem;
+	border: 0;
+	border-radius: .08rem;
+}
+.dibuwenzi{
+	width: 2rem;
+	height: .13rem;
+	margin-top:2.8rem;
+    position: relative;
+}
+.more{
+	width: .64rem;
+	height: .195rem;
+	float: right;
+	position: absolute;
+	left: 3rem;
+	right: 0;
+	top: 8.23rem;
+	border: 0;
+
+}
+#gedanbiaoti{
+	width: 100%;
+	height: .74rem;
+	display:block;
+	margin-top:3.4rem;
+	padding:.20rem 0;
+}
+.gedanwenzi{
+	width: 1.4rem;
+	height: .335rem;
+	display:block;
+	position: relative;
+
+}
+.gedanshuaxin{
+	width: .265rem;
+	height: .245rem;
+	display:block;
+	float: right;
+    position: absolute;
+	left: 3.355rem;
+	right: 0;
+	top: 8.88rem;
+	border: 0;
+}
+#gedanbeijing{
+	width: 100%;
+	height: 1.93rem;
+	position: relative;
+	margin-left: .01rem;
+	float: left;
+}
+.gedan1{
+	width: 100%;
+	height: .61rem;
+/* 	background-color: yellowgreen; */
+	display:block;
+	overflow: hidden;
+}
+.gadantouxiang1{
+	width: .79rem;
+	height: .61rem;
+	display:block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	border: 0;
+}
+.GDbaika1{
+	width: 2.12rem;
+	height: .61rem;
+    background-color: white;
+    display:block;
+    position: absolute;
+	left: .65rem;
+	right: 0;
+	top: 0;
+	border: 0;
+}
+.GDwenzi1{
+	width: 1.03rem;
+	height: .465rem;
+	display:block;
+	position: absolute;
+	left: .7rem;
+	right: 0;
+	top: .065rem;
+	border: 0;
+}
+.xiazai1{
+	width: .295rem;
+	height: .265rem;
+	display:block;
+	position: absolute;
+	left: 3rem;
+	right: 0;
+	top: .17rem;
+	border: 0;
+}
+.gedan2{
+	width: 100%;
+	height: .61rem;
+/* 	background-color: yellowgreen; */
+	display:block;
+	overflow: hidden;
+	margin-top:.05rem; 
+}
+.gadantouxiang2{
+	width: .79rem;
+	height: .61rem;
+	display:block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .66rem;
+	border: 0;
+}
+.GDbaika2{
+	width: 2.12rem;
+	height: .61rem;
+    background-color: white;
+    display:block;
+    position: absolute;
+	left: .65rem;
+	right: 0;
+	top: .66rem;
+	border: 0;
+}
+.GDwenzi2{
+	width: 1.165rem;
+	height: .465rem;
+	display:block;
+	position: absolute;
+	left: .7rem;
+	right: 0;
+	top: .75rem;
+	border: 0;
+}
+.xiazai2{
+	width: .295rem;
+	height: .265rem;
+	display:block;
+	position: absolute;
+	left: 3rem;
+	right: 0;
+	top: .85rem;
+	border: 0;
+}
+.gedan3{
+	width: 100%;
+	height: .61rem;
+/* 	background-color: yellowgreen; */
+	display:block;
+	overflow: hidden;
+	margin-top:.05rem;
+}
+.gadantouxiang3{
+	width: .79rem;
+	height: .61rem;
+	display:block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 1.32rem;
+	border: 0;
+}
+.GDbaika3{
+	width: 2.12rem;
+	height: .61rem;
+    background-color: white;
+    display:block;
+    position: absolute;
+	left: .65rem;
+	right: 0;
+	top: 1.32rem;
+	border: 0;
+}
+.GDwenzi3{
+	width: 1.05rem;
+	height: .466rem;
+	display:block;
+	position: absolute;
+	left: .7rem;
+	right: 0;
+	top: 1.4rem;
+	border: 0;
+}
+.xiazai3{
+	width: .295rem;
+	height: .265rem;
+	display:block;
+	position: absolute;
+	left: 3rem;
+	right: 0;
+	top: 1.52rem;
+	border: 0;
+}
+#zhuanjibiaoti{
+	width: 100%;
+	height: .755rem;
+	display:block;
+	margin-top: 1.93rem;
+	position: relative;
+}
+.zhuanjiwenzi{
+	width: 1.4rem;
+	height: .335rem;
+	display:block;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: .2rem;
+	border: 0;
+}
+.shuaxin2{
+	width: .265rem;
+	height: .245rem;
+	display:block;
+	position: absolute;
+	left: 3.24rem;
+	right: 0;
+	top: .25rem;
+	border: 0;
+}
+#zhuanjineirong{
+	width: 100%;
+	height: 2.285rem;
+	display:block;
+	padding:0 .02rem;
+}
+.zhuanjibeijing{
+	width: 3.5rem;
+	height: 2rem;
+    display:block;
+}
+footer{
+	width: 100%;
+	height: .48rem;
+	background-color:#FE204F;
+	display:block;
+	padding:0 .12rem;
+	overflow: hidden;
+	position: relative;
+	position: fixed;
+	left: 0;
+	top: 6.2rem;
+	z-index: 999;
+}
+#touxiangbeijing{
+	width: .33rem;
+	height: .335rem;
+	display:block;
+	overflow: hidden;
+	margin-top:.06rem;   
+}
+.yinyuewenzi{
+	width: .65rem;
+	height: .2rem;
+	display:block;
+	position: absolute;
+	left: .55rem;
+	right: 0;
+	top: .16rem;
+	border: 0;
+}
+.qianjin{
+	width: .265rem;
+	height: .24rem;
+	display:block;
+	position: absolute;
+	left: 2.4rem;
+	right: 0;
+	top: .13rem;
+	border: 0;
+
+}
+.houtui{
+	width: .265rem;
+	height: .24rem;
+	display:block;
+	position: absolute;
+	left: 3.35rem;
+	right: 0;
+	top: .13rem;
+	border: 0;
+}
+.zhanting{
+	width: .34rem;
+	height: .31rem;
+	display:block;
+	position: absolute;
+	left: 2.84rem;
+	right: 0;
+	top: .1rem;
+	border: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

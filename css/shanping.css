@@ -1,0 +1,151 @@
+.shanping3{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-image: url('../img/shanping3.png');
+	background-size: 100% auto;
+	position: relative;
+}
+.shanping3renwu{
+	width: 4.09rem;
+	height: 4.28rem;
+	display: block;
+	position: absolute;
+	top: 3.39rem;
+	bottom: 0;
+	left: 1.65rem;
+	right: 0;
+}
+.shanping3wenzi{
+	width: 4.38rem;
+	height: 1.48rem;
+	display: block;
+    position: absolute;
+	top: 8rem;
+	bottom: 0;
+	left: 1.42rem;
+	right: 0;
+}
+.shanping3BINGO{
+	width: 2.42rem;
+	height: .46rem;
+	display: block;
+	position: absolute;
+	top: 1.5rem;
+	bottom: 0;
+	left: 2.45rem;
+	right: 0;
+}
+.shanping3anniu{
+	width: 5.31rem;
+	height: 1.25rem;
+	display: block;
+	position: absolute;
+	top: 9.95rem;
+	bottom: 0;
+	left: 1rem;
+	right: 0;
+}
+.shanping2{
+	width: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-image: url('../img/shanpin2.png');
+	background-size: 100% auto;
+	position: relative;
+}
+.shanping2renwu{
+	width: 2.83rem;
+	height: 5.15rem;
+	display: block;
+	position: absolute;
+	top: 3.5rem;
+	bottom: 0;
+	left: 2.23rem;
+	right: 0;
+}
+.shanping2wenzi{
+	width: 4.38rem;
+	height: 1.48rem;
+	display: block;
+    position: absolute;
+	top: 8.92rem;
+	bottom: 0;
+	left: 1.42rem;
+	right: 0;
+}
+.shanping2BINGO{
+	width: 2.42rem;
+	height: .46rem;
+	display: block;
+	position: absolute;
+	top: 1.62rem;
+	bottom: 0;
+	left: 2.45rem;
+	right: 0;
+}
+.pag2{
+	width: 1.23rem;
+	height: 1.24rem;
+	display: block;
+	position: absolute;
+	top: 10.7rem;
+	bottom: 0;
+	left: 3rem;
+	right: 0;
+}
+.shanping1{
+	width: 100%;
+	height: 12.8rem;
+	background-image: url('../img/shanping1.png');
+	background-size: 100% auto;
+	display: block;
+	position: relative;
+}
+.shanpingBINGO{
+	width: 2.42rem;
+	height: .46rem;
+	display: block;
+	position: absolute;
+	top: 1.62rem;
+	bottom: 0;
+	left: 2.45rem;
+	right: 0;
+}
+.shanpingrenwu{
+	width: 3.20rem;
+	height: 4.83rem;
+	display: block;
+	position: absolute;
+	top: 3.43rem;
+	bottom: 0;
+	left: 1.85rem;
+	right: 0;
+}
+.shanpingwenzi1{
+	width: 4.38rem;
+	height: 1.48rem;
+	display: block;
+    position: absolute;
+	top: 8.92rem;
+	bottom: 0;
+	left: 1.42rem;
+	right: 0;
+}
+.pag1{
+	width: 1.23rem;
+	height: 1.24rem;
+	display: block;
+	position: absolute;
+	top: 10.7rem;
+	bottom: 0;
+	left: 3rem;
+	right: 0;
+}
+
